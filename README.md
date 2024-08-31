@@ -1,5 +1,5 @@
 ## Data Expedition Portfolio
-[icons8-portfolio-64](https://github.com/user-attachments/assets/68b446a2-43c7-4f06-a136-b8e884c743d4)
+![icons8-portfolio-64](https://github.com/user-attachments/assets/f153dc36-d55f-4c15-ac07-2c566918496a)
 
 Welcome to my Data Expedition Portfolio! This repository showcases a variety of data-related projects that highlight my skills in data analysis, machine learning, and data visualization | **Embark on my data exploration journey!**
 
