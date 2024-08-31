@@ -46,7 +46,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ### License
 
-This portfolio is licensed under the Apache License 2.0 - see the LICENSE file for details.
+This portfolio is licensed under the Apache License 2.0 - see the [LICENSE file](https://github.com/jaarguga87/data_expedition_portfolio/blob/86ef507b15800efc1ea939832ae031244e235f8a/LICENSE/Apache%20License%2.0) for details.
 
 ### Contact 👇
 
