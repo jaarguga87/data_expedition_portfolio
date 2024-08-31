@@ -1,4 +1,5 @@
-Project Title: Predictive Analytics for Oil Well Failures | A Machine Learning Approach <img width="64" height="64" src="https://img.icons8.com/3d-fluency/64/oil-pump-jack.png" alt="oil-pump-jack"/>
+## Project Title: Predictive Analytics for Oil Well Failures | A Machine Learning Approach 
+<img width="64" height="64" src="https://img.icons8.com/3d-fluency/64/oil-pump-jack.png" alt="oil-pump-jack"/>
 
 Authors:
 - **[Titilola Oduwole](https://github.com/titioduwole)**: titioduwole@gmail.com
