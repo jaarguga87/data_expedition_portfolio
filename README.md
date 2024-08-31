@@ -38,7 +38,7 @@ Each project is organized with a consistent structure to ensure clarity and ease
 
 Discover how visualizations bring data to life and drive decision-making.
 
-![image](https://github.com/user-attachments/assets/12662c29-532b-4d0e-ae10-12ac94a6d446)
+![image](https://github.com/user-attachments/assets/a072f6e1-b2bd-4bf2-8341-10ec3804795f)
 
 ### Contributing
 
