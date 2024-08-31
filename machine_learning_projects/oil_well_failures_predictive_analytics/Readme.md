@@ -4,6 +4,8 @@ Authors:
 - **[Titilola Oduwole](https://github.com/titioduwole)**: titioduwole@gmail.com
 - **[Jahir Gutierrez](https://github.com/jaarguga87)**: jaarguga@outlook.com
 
+
+
 ## Description
 
 This project leverages Machine Learning to predict oil well failures, enabling proactive maintenance and optimizing operational efficiency. Our model accurately identifies potential failures well in advance, leading to significant cost savings and increased production. Approximately 10 years of historical data was analized. 
@@ -16,7 +18,7 @@ This project leverages Machine Learning to predict oil well failures, enabling p
 
 ## Visualizations Matrix Correlation accorging to Feature Importance.
 
-![image](https://github.com/user-attachments/assets/cadd2936-96f1-48ed-bd20-fee855e3dee0)
+![image](https://github.com/user-attachments/assets/46e9e619-a2b9-496d-9f02-2594b88cbd8e)
 
 ## Methodology
 
