@@ -10,7 +10,6 @@ This portfolio includes:
 * **Machine Learning Projects:** Building and evaluating machine learning models.
 * **Data Analysis Projects:** Conducting in-depth analyses using Python, SQL, and R.
 * **Data Visualization Projects:** Creating interactive dashboards and reports with Power BI and Tableau.
-* **Reports and Presentations:** Summarizing key findings and insights.
 
 ### Project Structure
 
